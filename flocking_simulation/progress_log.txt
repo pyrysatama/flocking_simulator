@@ -1,0 +1,24 @@
+I will start the project later.
+
+30.3
+I started the project. I added 4 classes:
+ - Vector2D class which helps to calculate vectors.
+ - Boid class where are the rules hoe the boid moves (doesnt work properly yet) and also draw function that draws the boid.
+ - Boids class where is a buffer of all the boids, step() function that moves every boid and draw function that draws every boid to map
+ - Simulation class where the canvas is created. Also has a timer function
+
+I have only tested functions through user interface
+
+No errors, only problem so far is that movement of the flock is not working as it should
+
+workload has been about 5 hours so far
+
+I have used 5 hours for my canvas and boid class so so far i'm on schedule
+
+13.4
+I added sliders and button. Updated bound function in Vector2D. 
+I have tested functions through user interface. 
+Got movement looking better by editing Alignment, Cohesion and Separation functions.
+I have used around 15 hours to my project so far
+
+
